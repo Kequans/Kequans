@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kequan 👋</h1>
 
 <h3 align="center">
-  Senior Algorithm Engineer · Computer Vision · 3D Vision · AI Engineering
+  Algorithm Engineer · Computer Vision · 3D Vision · AI Engineering
 </h3>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Senior Algorithm Engineer** interested in turning research ideas into practical and usable systems.
+I'm a **Algorithm Engineer** interested in turning research ideas into practical and usable systems.
 
 My work and interests mainly focus on **Computer Vision**, **3D Vision**, **Deep Learning** and **AI Engineering**.
 
